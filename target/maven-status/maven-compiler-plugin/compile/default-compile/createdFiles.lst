@@ -1,1 +1,13 @@
-introduction\HelloWorld.class
+second\debug\EvaluateExpressions.class
+second\shortcuts\ClassThatHaveItAll.class
+second\shortcuts\InterfaceOne.class
+second\debug\hidden\ObjectMaker.class
+second\shortcuts\ClassThatHaveItAllBis.class
+second\debug\hidden\ObjectAnalyzer.class
+second\debug\hidden\MakeThings.class
+second\debug\ConditionalBreak.class
+second\junit\Main.class
+second\junit\HttpQueryClass.class
+second\junit\ProcessQuery.class
+second\debug\Breakpoints.class
+second\junit\AdvanceMath.class

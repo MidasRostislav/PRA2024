@@ -18,6 +18,7 @@ public class ConditionalBreak {
             everythingIsOK = ObjectAnalyzer.processElementAtIndex(myArray, i);
             i++;
         }
+        //Some new lines to make stash
 
         if (!everythingIsOK) {
             throw new RuntimeException(

@@ -1,9 +1,9 @@
-{
+[ {
   "refId" : 1,
-  "birthDate" : "2023-11-29 14:54:26.924+0000",
+  "birthDate" : "2023-11-27 20:43:59.699+0000",
   "id" : 0,
   "firstName" : "Jan",
-  "lastName" : "Polak462821335",
+  "lastName" : "Polak1416691180",
   "address" : {
     "id" : 0,
     "street" : "poznanska",
@@ -15,10 +15,10 @@
   "managers" : [ ],
   "subworkers" : [ {
     "refId" : 2,
-    "birthDate" : "2023-11-29 14:54:26.934+0000",
+    "birthDate" : "2023-11-27 20:43:59.699+0000",
     "id" : 0,
     "firstName" : "Roman",
-    "lastName" : "Polak-1998124845",
+    "lastName" : "Polak-483650143",
     "address" : {
       "id" : 0,
       "street" : "poznanska",
@@ -31,5 +31,5 @@
     "subworkers" : [ ],
     "wynagrodzenie" : 100
   } ],
-  "wynagrodzenie" : 200
-}
+  "wynagrodzenie" : 100
+}, 2 ]

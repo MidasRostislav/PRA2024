@@ -1,0 +1,4 @@
+model\Employee.class
+pl\edu\amu\pracprog\ModelObjectsCreator.class
+pl\edu\amu\pracprog\JacksonSerialization.class
+model\Address.class

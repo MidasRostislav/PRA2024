@@ -1,0 +1,39 @@
+<Employee>
+  <refId>1</refId>
+  <birthDate>2023-11-29 14:54:27.069+0000</birthDate>
+  <id>0</id>
+  <firstName>Jan</firstName>
+  <lastName>Polak-1358420059</lastName>
+  <address>
+    <id>0</id>
+    <street>poznanska</street>
+    <city>Poznan</city>
+    <nr>1</nr>
+    <houseNr/>
+    <postcode>99090</postcode>
+  </address>
+  <managers/>
+  <subworkers>
+    <subworkers>
+      <refId>2</refId>
+      <birthDate>2023-11-29 14:54:27.069+0000</birthDate>
+      <id>0</id>
+      <firstName>Roman</firstName>
+      <lastName>Polak442876183</lastName>
+      <address>
+        <id>0</id>
+        <street>poznanska</street>
+        <city>Poznan</city>
+        <nr>1</nr>
+        <houseNr/>
+        <postcode>99090</postcode>
+      </address>
+      <managers>
+        <managers>1</managers>
+      </managers>
+      <subworkers/>
+      <wynagrodzenie>100</wynagrodzenie>
+    </subworkers>
+  </subworkers>
+  <wynagrodzenie>100</wynagrodzenie>
+</Employee>

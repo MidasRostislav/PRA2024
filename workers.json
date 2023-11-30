@@ -1,4 +1,4 @@
-{
+[ {
   "refId" : 1,
   "birthDate" : "2023-11-29 14:54:26.924+0000",
   "id" : 0,
@@ -31,5 +31,5 @@
     "subworkers" : [ ],
     "wynagrodzenie" : 100
   } ],
-  "wynagrodzenie" : 200
-}
+  "wynagrodzenie" : 100
+}, 2 ]
